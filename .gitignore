@@ -1,0 +1,10 @@
+# CMake build directories
+/build/
+/out/build/
+/cmake-build-*/
+/CMakeUserPresets.json
+
+# Visual Studio local files
+.vs/
+*.vcxproj.user
+*.suo
