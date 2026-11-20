@@ -1,7 +1,9 @@
 #include <iostream>
 
+#include <Alder/Version.h>
+
 int main()
 {
-    std::cout << "Hello, Alder!\n";
+    std::cout << "Version: " << Alder::GetVersion() << "\n";
     return 0;
 }

@@ -28,4 +28,4 @@ cmake --build build --config Release
 ./build/Release/Alder.exe
 ```
 
-Both configurations print `Hello, Alder!`. To rebuild after editing the source, run the corresponding `cmake --build` command again.
+Both configurations print `Version: 1`. To rebuild after editing the source, run the corresponding `cmake --build` command again.
